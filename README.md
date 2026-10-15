@@ -1,3 +1,14 @@
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/J0hn-Prieto/count.svg"/>
+  <br/>
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=J0hn-Prieto&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0hn-Prieto&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=J0hn-Prieto&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+</div>
+
 # 💫 About Me:
 🎓Soy estudiante de séptimo semestre de Ingeniería de Software en la Universidad Politécnico Grancolombiano, apasionado por la tecnología, la programación y el desarrollo de soluciones innovadoras. Actualmente, me encuentro fortaleciendo mis habilidades en desarrollo de software, diseño de aplicaciones, bases de datos y buenas prácticas de programación, mientras aplico mis conocimientos en proyectos académicos y personales. Me caracterizo por mi curiosidad, compromiso con el aprendizaje continuo y disposición para enfrentar nuevos desafíos tecnológicos. Mi objetivo es seguir creciendo como desarrollador de software, adquirir experiencia práctica y contribuir a proyectos que generen valor mediante soluciones eficientes, escalables y de calidad.
 
